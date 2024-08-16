@@ -6,6 +6,8 @@
 # Main Script for task
 # -----------------------
 
+# GITHUB LINK: https://github.com/NowellPhelps/natural_disaster_deaths
+
 rm(list = ls())
 library(tidyverse)
 library(rvest)
